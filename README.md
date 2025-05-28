@@ -3,7 +3,7 @@
 
 > A machine learning-based system to detect fraudulent credit card transactions using data analysis and visualization.
 
-![fraud detection](https://media.giphy.com/media/26gslU06zHbPRhIb2/giphy.gif)
+
 
 ---
 
